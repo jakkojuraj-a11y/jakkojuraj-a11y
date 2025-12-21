@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Jakko Juraj
+### 👋 Hi, I'm Jakkoju Vikas Raj
 
 **Junior Data Scientist | Data Analyst**
 
@@ -72,8 +72,8 @@ Early-career data professional with hands-on experience in Python, SQL, and end-
 
 ### 🤝 Let's Connect
 
-- **LinkedIn:** [Your LinkedIn URL]
-- **Email:** [your.email@example.com]
+- **LinkedIn:** https://www.linkedin.com/in/jakkoju-vikasraj816/
+- **Email:** jakkojuraj@gmail.com
 - **GitHub:** [github.com/jakkojuraj-a11y](https://github.com/jakkojuraj-a11y)
 
 Always open to:
