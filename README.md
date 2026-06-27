@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/jakkojuraj-a11y">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6AD3F7&center=true&vCenter=true&multiline=false&width=600&lines=👋+Hi%2C+I'm+Vikas+Raj!;🧠+Junior+Data+Scientist;📊+Data+Analyst+%26+BI+Developer;🤖+ML+Engineer+in+the+Making;🚀+Turning+Raw+Data+into+Insights!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6AD3F7&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Vikas+Raj!;🧠+Junior+Data+Scientist;📊+Data+Analyst+%26+BI+Developer;🤖+ML+Engineer+in+the+Making;🚀+Turning+Raw+Data+into+Insights!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,10 +20,6 @@
   &nbsp;
   <a href="mailto:jakkojuraj@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/jakkojuraj-a11y">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -103,7 +99,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Statistics-239120?style=for-the-badge&logo=r&logoColor=white"/>
 </p>
 
 ### 📊 Visualization & BI
@@ -139,10 +134,26 @@ me.say_hi()
 
 <div align="center">
 
+<a href="https://github.com/jakkojuraj-a11y/EDA_PROJECT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jakkojuraj-a11y&repo=EDA_PROJECT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&icon_color=6AD3F7"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/jakkojuraj-a11y/RESTAURANT-CONSUMERS_SQL_PROJECT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jakkojuraj-a11y&repo=RESTAURANT-CONSUMERS_SQL_PROJECT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&icon_color=6AD3F7"/>
+</a>
+
+<br/><br/>
+
 <a href="https://github.com/jakkojuraj-a11y/EDA_TASK">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jakkojuraj-a11y&repo=EDA_TASK&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&icon_color=6AD3F7"/>
 </a>
 &nbsp;&nbsp;
+<a href="https://github.com/jakkojuraj-a11y/EDA_assignment">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jakkojuraj-a11y&repo=EDA_assignment&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&icon_color=6AD3F7"/>
+</a>
+
+<br/><br/>
+
 <a href="https://github.com/jakkojuraj-a11y/Intership_Assignment">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jakkojuraj-a11y&repo=Intership_Assignment&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&icon_color=6AD3F7"/>
 </a>
@@ -151,35 +162,13 @@ me.say_hi()
 
 <br/>
 
-<details>
-<summary><b>🔍 EDA_TASK — Exploratory Data Analysis</b></summary>
-<br/>
-
-> **Tech:** Python · Pandas · Matplotlib · NumPy
->
-> - 📂 Comprehensive data exploration and cleaning pipeline
-> - 📈 Pattern & trend identification across multiple datasets
-> - 💡 Business insight extraction through visualization
-> - ✅ Well-documented notebooks with step-by-step analysis
-
-[→ View Repository](https://github.com/jakkojuraj-a11y/EDA_TASK)
-
-</details>
-
-<details>
-<summary><b>🔍 Intership_Assignment — Data Science Fundamentals</b></summary>
-<br/>
-
-> **Tech:** Python · SQL · Pandas · Scikit-learn
->
-> - 🗄️ Complex SQL analytics with joins, CTEs & window functions
-> - 🧹 End-to-end data manipulation and preprocessing
-> - 📊 Real-world dataset problem solving
-> - 🤖 Machine learning fundamentals applied on live data
-
-[→ View Repository](https://github.com/jakkojuraj-a11y/Intership_Assignment)
-
-</details>
+| # | Project | Description | Tech |
+|---|---|---|---|
+| 🥇 | [EDA_PROJECT](https://github.com/jakkojuraj-a11y/EDA_PROJECT) | End-to-end E-commerce Data Analysis | Python · Pandas · Matplotlib |
+| 🥈 | [RESTAURANT-CONSUMERS_SQL_PROJECT](https://github.com/jakkojuraj-a11y/RESTAURANT-CONSUMERS_SQL_PROJECT) | SQL Analytics: JOINs, CTEs, Stored Procedures | MySQL · SQL |
+| 🥉 | [EDA_TASK](https://github.com/jakkojuraj-a11y/EDA_TASK) | Exploratory Data Analysis on real datasets | Python · NumPy · Seaborn |
+| 4️⃣ | [EDA_assignment](https://github.com/jakkojuraj-a11y/EDA_assignment) | Data cleaning & insight extraction | Python · Pandas |
+| 5️⃣ | [Intership_Assignment](https://github.com/jakkojuraj-a11y/Intership_Assignment) | Data Science fundamentals & SQL | Python · SQL |
 
 ---
 
@@ -222,9 +211,9 @@ me.say_hi()
 
 <div align="center">
 
-| 🔥 Repositories | 📍 Location | 💼 Status | 🏢 Internship |
+| 🔥 Repos | 📍 Location | 💼 Status | 🏢 Internship |
 |---|---|---|---|
-| 2 Active Projects | Hyderabad, India | Open to Opportunities | Innomatics Research Labs |
+| 6 Projects | Hyderabad, India | Open to Opportunities | Innomatics Research Labs |
 
 </div>
 
@@ -234,7 +223,7 @@ me.say_hi()
 
 <div align="center">
 
-*I'm actively looking for entry-level Data Scientist / Data Analyst roles, internships, and collaboration opportunities.*
+*Actively looking for entry-level Data Scientist / Data Analyst roles, internships, and collaboration.*
 
 <br/>
 
@@ -258,15 +247,6 @@ me.say_hi()
 </div>
 
 ---
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jakkojuraj-a11y/jakkojuraj-a11y/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jakkojuraj-a11y/jakkojuraj-a11y/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jakkojuraj-a11y/jakkojuraj-a11y/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</div>
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
