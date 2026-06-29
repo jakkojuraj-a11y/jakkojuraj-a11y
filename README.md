@@ -1,258 +1,192 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jakkoju%20Vikas%20Raj&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Analytics%20Expert&descAlignY=58&descSize=18"/>
+# 👋 Hi, I'm Jakkoju Vikas Raj
 
-<!-- Typing Animation -->
+### Data Analyst | Data Scientist | Machine Learning Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Turning+Raw+Data+into+Business+Insights;Building+Data-Driven+Solutions;Always+Learning+New+Technologies"/>
+
+<p>
+
 <a href="https://github.com/jakkojuraj-a11y">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6AD3F7&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Vikas+Raj!;🧠+Junior+Data+Scientist;📊+Data+Analyst+%26+BI+Developer;🤖+ML+Engineer+in+the+Making;🚀+Turning+Raw+Data+into+Insights!" alt="Typing SVG" />
+<img src="https://img.shields.io/github/followers/jakkojuraj-a11y?label=Followers&style=for-the-badge"/>
 </a>
 
-<br/>
+<a href="https://komarev.com/ghpvc/?username=jakkojuraj-a11y">
+<img src="https://komarev.com/ghpvc/?username=jakkojuraj-a11y&style=for-the-badge"/>
+</a>
 
-<!-- Profile Views & Socials -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=jakkojuraj-a11y&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/jakkoju-vikasraj816/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:jakkojuraj@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:jakkojuraj@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jakkoju-vikasraj816">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </p>
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
-
-<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+# 💡 About Me
 
 ```python
 class VikasRaj:
-    def __init__(self):
-        self.name       = "Jakkoju Vikas Raj"
-        self.role       = "Junior Data Scientist & Analyst"
-        self.location   = "📍 Hyderabad, India"
-        self.internship = "Innomatics Research Labs"
-        self.focus      = ["EDA", "ML", "SQL Analytics", "Power BI"]
-        self.learning   = ["Model Deployment", "A/B Testing",
-                           "Storytelling with Data"]
-        self.goal       = "Entry-level DS / DA roles"
-        self.quote      = "Data is the new oil 📈"
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something impactful.")
+    def __init__(self):
+
+        self.name = "Jakkoju Vikas Raj"
+
+        self.role = "Data Analyst"
+
+        self.location = "India"
+
+        self.skills = [
+            "Python",
+            "SQL",
+            "Power BI",
+            "Machine Learning",
+            "Statistics",
+            "A/B Testing",
+            "Data Visualization"
+        ]
+
+        self.current_focus = [
+            "Business Analytics",
+            "Machine Learning",
+            "End-to-End Data Projects",
+            "Product Analytics"
+        ]
+
+        self.goal = "Helping businesses make better decisions using data."
 
 me = VikasRaj()
-me.say_hi()
 ```
 
-<br clear="right"/>
+---
+
+# 🚀 Tech Stack
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Data Analysis
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy)
+
+### Machine Learning
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+
+### Visualization
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+
+### Tools
+
+Git • GitHub • Jupyter • VS Code • Excel • Google Colab • Streamlit
 
 ---
 
-## 📊 GitHub Statistics
+# 📂 Featured Projects
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jakkojuraj-a11y&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakkojuraj-a11y&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF"/>
-</div>
+## 📈 End-to-End E-commerce Analytics
 
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=jakkojuraj-a11y&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7"/>
-</div>
+Python • SQL • Power BI
 
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=jakkojuraj-a11y&theme=tokyo-night&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&hide_border=true"/>
-</div>
+- Data Cleaning
+- Feature Engineering
+- Customer Segmentation
+- Revenue Analysis
+- Dashboard
 
 ---
 
-## 🏆 GitHub Trophies
+## 🍽 Restaurant Consumer Analytics
 
-<div align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=jakkojuraj-a11y&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
-</div>
+SQL • Power BI
 
----
-
-## 🧠 Tech Stack & Tools
-
-<div align="center">
-
-### 🐍 Programming & Data
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
-</p>
-
-### 🤖 Machine Learning & AI
-<p>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-</p>
-
-### 📊 Visualization & BI
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
-
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
-
-</div>
+- Complex JOINs
+- Window Functions
+- Stored Procedures
+- Customer Insights
 
 ---
 
-## 📌 Featured Projects
+## 🧪 A/B Testing Analysis
 
-<div align="center">
+Python • Statistics
 
-<a href="https://github.com/jakkojuraj-a11y/EDA_PROJECT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jakkojuraj-a11y&repo=EDA_PROJECT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&icon_color=6AD3F7"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/jakkojuraj-a11y/RESTAURANT-CONSUMERS_SQL_PROJECT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jakkojuraj-a11y&repo=RESTAURANT-CONSUMERS_SQL_PROJECT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&icon_color=6AD3F7"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/jakkojuraj-a11y/EDA_TASK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jakkojuraj-a11y&repo=EDA_TASK&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&icon_color=6AD3F7"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/jakkojuraj-a11y/EDA_assignment">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jakkojuraj-a11y&repo=EDA_assignment&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&icon_color=6AD3F7"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/jakkojuraj-a11y/Intership_Assignment">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jakkojuraj-a11y&repo=Intership_Assignment&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&icon_color=6AD3F7"/>
-</a>
-
-</div>
-
-<br/>
-
-| # | Project | Description | Tech |
-|---|---|---|---|
-| 🥇 | [EDA_PROJECT](https://github.com/jakkojuraj-a11y/EDA_PROJECT) | End-to-end E-commerce Data Analysis | Python · Pandas · Matplotlib |
-| 🥈 | [RESTAURANT-CONSUMERS_SQL_PROJECT](https://github.com/jakkojuraj-a11y/RESTAURANT-CONSUMERS_SQL_PROJECT) | SQL Analytics: JOINs, CTEs, Stored Procedures | MySQL · SQL |
-| 🥉 | [EDA_TASK](https://github.com/jakkojuraj-a11y/EDA_TASK) | Exploratory Data Analysis on real datasets | Python · NumPy · Seaborn |
-| 4️⃣ | [EDA_assignment](https://github.com/jakkojuraj-a11y/EDA_assignment) | Data cleaning & insight extraction | Python · Pandas |
-| 5️⃣ | [Intership_Assignment](https://github.com/jakkojuraj-a11y/Intership_Assignment) | Data Science fundamentals & SQL | Python · SQL |
+- Hypothesis Testing
+- Confidence Intervals
+- Effect Size
+- Marketing Campaign Analysis
 
 ---
 
-## 📚 Currently Learning
+## 📊 Machine Learning Projects
 
-<div align="center">
-
-| 🎯 Topic | 📈 Progress | 🛠️ Tools |
-|---|---|---|
-| Advanced SQL (CTEs, Window Fns) | ████████░░ 80% | MySQL · PostgreSQL |
-| ML Model Deployment | ██████░░░░ 60% | Flask · Streamlit |
-| Statistical Hypothesis Testing | ███████░░░ 70% | Python · SciPy |
-| A/B Testing | █████░░░░░ 50% | Python · Statistics |
-| Data Storytelling & Viz | ████████░░ 80% | Power BI · Matplotlib |
-
-</div>
+- Classification
+- Regression
+- Model Evaluation
+- Feature Engineering
 
 ---
 
-## 🎯 Career Interests
+# 📜 Certifications
 
-<div align="center">
+✅ Google Data Analytics
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│   🤖  Data Science & ML    ──  Predictive models & experimentation         │
-│   📊  Data Analytics       ──  Dashboards, KPIs & business intelligence    │
-│   📱  Product Analytics    ──  User behavior, funnels, cohort analysis      │
-│   🛒  E-commerce Analytics ──  Customer patterns & revenue drivers         │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
+✅ SQL Certifications
 
 ---
 
-## 💡 Quick Stats
 
-<div align="center">
+# 📊 Current Learning
 
-| 🔥 Repos | 📍 Location | 💼 Status | 🏢 Internship |
-|---|---|---|---|
-| 6 Projects | Hyderabad, India | Open to Opportunities | Innomatics Research Labs |
-
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-*Actively looking for entry-level Data Scientist / Data Analyst roles, internships, and collaboration.*
-
-<br/>
-
-<a href="https://www.linkedin.com/in/jakkoju-vikasraj816/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:jakkojuraj@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Shoot%20a%20Mail!-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/jakkojuraj-a11y">
-  <img src="https://img.shields.io/badge/GitHub-Check%20My%20Work!-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-**Always open to:**
-🧑‍💼 Entry-level DS/DA Roles &nbsp;|&nbsp; 🌱 Internships &nbsp;|&nbsp; 🤝 Collaboration &nbsp;|&nbsp; 💬 Networking
-
-</div>
+- Machine Learning
+- Deep Learning
+- Product Analytics
+- A/B Testing
+- Data Engineering
+- Generative AI
 
 ---
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+# 🤝 Connect with Me
+
+📧 **Email**
+
+jakkojuraj@gmail.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/jakkoju-vikasraj816/
+
+💻 **GitHub**
+
+https://github.com/jakkojuraj-a11y
+
+---
 
 <div align="center">
-  <i>⭐️ "Data is the new oil. Let's make sense of it together." 📈</i>
-  <br/>
-  <sub>Made with ❤️ by Jakkoju Vikas Raj</sub>
+
+⭐ If you like my work, consider giving a star to my repositories!
+
 </div>
