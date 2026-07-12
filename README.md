@@ -136,12 +136,12 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jakkojuraj-a11y&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jakkojuraj-a11y&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=jakkojuraj-a11y&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=jakkojuraj-a11y&theme=tokyonight&hide_border=true" width="49%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakkojuraj-a11y&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jakkojuraj-a11y&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jakkojuraj-a11y&theme=tokyo-night&hide_border=true" width="49%"/>
 </div>
 
@@ -150,8 +150,10 @@ me.say_hi()
 </div>
 
 <!--
-  📌 Contribution snake — add this workflow file at
-  .github/workflows/snake.yml in your profile repo to generate the animation:
+  📌 Contribution snake — currently NOT active.
+  The image below only works after this workflow file exists in your
+  profile repo (a repo named exactly "jakkojuraj-a11y") at:
+  .github/workflows/snake.yml
 
   name: Generate Snake
   on:
@@ -178,11 +180,14 @@ me.say_hi()
             build_dir: dist
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
+
+  Once you add this file and it runs once (check the Actions tab),
+  uncomment the <div> block below to display the snake.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/jakkojuraj-a11y/jakkojuraj-a11y/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
+-->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
